@@ -5,6 +5,17 @@
 **If you have any problems, suggestions or improvements, please submit the issue or PR.**
 
 ## Contents
+- Background
+
+- Methods
+ - End-to-end Learning
+ - k-Space Learning
+ - Unrolled Neural Networks
+ - Self-supervised Learning
+ - Generative Prior
+  - GAN
+  - Diffusion Model
+
 - [Papers](#papers)
   - [Review](#review)
   - [2024](#2024)
@@ -16,6 +27,7 @@
   - [2018](#2018)
   - [2017](#2017)
   - [before 2017](#before2017)
+ 
 - [Datasets](#datasets)
 - [Competitions](#competitions)
 
