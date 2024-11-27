@@ -8,13 +8,13 @@
 - Background
 
 - Methods
- - End-to-end Learning
- - k-Space Learning
- - Unrolled Neural Networks
- - Self-supervised Learning
- - Generative Prior
-  - GAN
-  - Diffusion Model
+  - End-to-end Learning
+  - k-Space Learning
+  - Unrolled Neural Networks
+  - Self-supervised Learning
+  - Generative Prior
+    - GAN
+    - Diffusion Model
 
 - [Papers](#papers)
   - [Review](#review)
