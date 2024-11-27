@@ -5,8 +5,8 @@
 **If you have any problems, suggestions or improvements, please submit the issue or PR.**
 
 ## Contents
-- [Papers](Papers)
-  - [Review](Review)
+- [Papers](#papers)
+  - [Review](#review)
   - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
@@ -15,9 +15,9 @@
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-  - [before 2017](Before2017)
-- [Datasets](Datasets)
-- [Competitions](Competitions)
+  - [before 2017](#before2017)
+- [Datasets](#datasets)
+- [Competitions](#competitions)
 
 ## Papers
 
